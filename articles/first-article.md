@@ -3,7 +3,7 @@ title: "自分はこうやってZenn書いてます(初投稿)"
 emoji: "✋"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Zenn", "idea", "初心者", "VSCode"]
-published: false
+published: true
 ---
 
 # 始めに
