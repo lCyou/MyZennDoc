@@ -4,7 +4,11 @@
   "description": "Zennの記事投稿するためのリポジトリです。 -> https://zenn.dev/lcyou",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "zenn preview",
+    "article": "zenn new:article",
+    "book": "zenn new:book",
+    "update": "yarn add -D zenn-cli@latest"
   },
   "keywords": [],
   "author": "",
